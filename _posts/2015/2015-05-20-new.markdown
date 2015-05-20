@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Google scholar indexes your citations"
+date: "2015-05-20 18:14"
+---
+
+Here is my google scholar page
+<a href="https://scholar.google.com/citations?hl=en&user=zJT4q7kAAAAJ">
+    Google Scholar Profile
